@@ -1,0 +1,681 @@
+Line number,Character,Place,Time,Line,Word count,sentiment_sc
+1,Pumpkin,int. coffee shop,morning,No forget it its too risky Im through doin that shit,11,-0.8176
+2,Honey Bunny,int. coffee shop,morning,You always say that the same thing every time never again Im through too dangerous,15,-0.4767
+4,Honey Bunny,int. coffee shop,morning, but you forget about it in a day or two ,10,-0.3291
+5,Pumpkin,int. coffee shop,morning, yeah well the days of me forgittin are over and the days of me rememberin have just begun,18,0.5106
+6,Honey Bunny,int. coffee shop,morning,When you go on like this you know what you sound like,12,0.6124
+7,Pumpkin,int. coffee shop,morning,I sound like a sensible fucking man is what I sound like,12,0.6124
+8,Honey Bunny,int. coffee shop,morning,You sound like a duck Quack quack quack quack quack quack quack,12,0.3612
+9,Pumpkin,int. coffee shop,morning,Well take heart cause youre never gonna hafta hear it again Because since Im never gonna do it again youre never gonna hafta hear me quack about how Im never gonna do it again,34,0.2732
+13,Honey Bunny,int. coffee shop,morning,Oh yes thank you,4,0.6369
+14,Pumpkin,int. coffee shop,morning,Im doin fine,3,0.2023
+15,Pumpkin,int. coffee shop,morning,I mean the way it is now youre takin the same fuckin risk as when you rob a bank You take more of a risk Banks are easier Federal banks arent supposed to stop you anyway during a robbery Theyre insured why should they care You dont even need a gun in a federal bank I heard about this guy walked into a federal bank with a portable phone handed the phone to the teller the guy on the other end of the phone said We got this guys little girl and if you dont give him all your money were gonna kill er,104,-0.5538
+18,Honey Bunny,int. coffee shop,morning,Did they hurt the little girl,6,-0.5267
+20,Honey Bunny,int. coffee shop,morning,You wanna rob banks,4,-0.5574
+21,Pumpkin,int. coffee shop,morning,Im not sayin I wanna rob banks Im just illustrating that if we did it would be easier than what we been doin,23,0.6931
+22,Honey Bunny,int. coffee shop,morning,So you dont want to be a bank robber,9,-0.6231
+23,Pumpkin,int. coffee shop,morning,Naw all those guys are goin down the same road either dead or servin twenty,15,-0.6486
+24,Honey Bunny,int. coffee shop,morning,And no more liquor stores,5,-0.296
+25,Pumpkin,int. coffee shop,morning,What have we been talking about Yeah no moreliquorstores Besides it aint the giggle it usta be Too many foreigners own liquor stores Vietnamese Koreans they cant fuckin speak English You tell em Empty out the register and they dont know what it fuckin means They make it too personal We keep on one of those gook motherfuckers gonna make us kill em,63,-0.833
+26,Honey Bunny,int. coffee shop,morning,Im not gonna kill anybody,5,0.5773
+27,Pumpkin,int. coffee shop,morning,I dont wanna kill anybody either But theyll probably put us in a situation where its us of them And if its not the gooks it these old Jews whove owned the store for fifteen fuckin generations Ya got Grandpa Irving sittin behind the counter with a fuckin Magnum Try walkin into one of those stores with nothin but a telephone see how far it gets you Fuck it forget it were out of it,75,-0.6938
+28,Honey Bunny,int. coffee shop,morning,Well what else is there day jobs,7,0.2732
+30,Honey Bunny,int. coffee shop,morning,Well what then,3,0.2732
+35,Pumpkin,int. coffee shop,morning,Whats wrong with that People never rob restaurants why not Bars liquor stores gas stations you get your head blown off stickin up one of them Restaurants on the other hand you catch with their pants down Theyre not expecting to get robbed or not as expecting,47,0.4632
+36,Honey Bunny,int. coffee shop,morning,I bet in places like this you could cut down on the hero factor,14,0.6124
+37,Pumpkin,int. coffee shop,morning,Correct Just like banks these places are insured The managers dont give a fuck theyre just tryin to get ya out the door before you start pluggin diners Waitresses forget it they aint takin a bullet for the register Busboys some wetback gettin paid a dollar fifty a hour gonna really give a fuck youre stealin from the owner Customers are sittin there with food in their mouths they dont know whats goin on One minute theyre havin a Denver omelet next minute somebodys stickin a gun in their face,90,0.5994
+38,Pumpkin,int. coffee shop,morning,See I got the idea last liquor store we stuck up Member all those customers kept comin in,18,-0.25
+39,Honey Bunny,int. coffee shop,morning,Yeah,1,0.296
+42,Pumpkin,int. coffee shop,morning,That was a good idea,5,0.4404
+43,Honey Bunny,int. coffee shop,morning,Thanks,1,0.4404
+45,Honey Bunny,int. coffee shop,morning,Yes we did,3,0.4019
+48,Pumpkin,int. coffee shop,morning,Pretty smart huh,3,0.7096
+49,Honey Bunny,int. coffee shop,morning,Pretty smart Im ready lets go right here right now,10,0.8126
+52,Honey Bunny,int. coffee shop,morning,I love you Pumpkin,4,0.6369
+53,Pumpkin,int. coffee shop,morning,I love you Honey Bunny,5,0.6369
+54,Pumpkin,int. coffee shop,morning,Everybody be cool this is a robbery,7,0.3182
+55,Honey Bunny,int. coffee shop,morning,Any of you fuckin pricks move and Ill execute every one of you motherfuckers Got that,16,-0.5719
+56,Jules,int. '74 Chevy (moving),morning, Okay now tell me about the hash bars,8,0.2263
+57,Vincent,int. '74 Chevy (moving),morning,What so you want to know,6,0.1477
+58,Jules,int. '74 Chevy (moving),morning,Well hash is legal there right,6,0.3818
+59,Vincent,int. '74 Chevy (moving),morning,Yeah its legal but is aint a hundred percent legal I mean you cant walk into a restaurant roll a joint and start puffin away Youre only supposed to smoke in your home or certain designated places,37,0.6428
+61,Vincent,int. '74 Chevy (moving),morning,Yeah it breaks down like this its legal to buy it its legal to own it and if youre the proprietor of a hash bar its legal to sell it Its legal to carry it which doesnt really matter cause  get a load of this  if the cops stop you its illegal for this to search you Searching you is a right that the cops in Amsterdam dont have,69,0.1554
+63,Vincent,int. '74 Chevy (moving),morning,Youll dig it the most But you know what the funniest thing about Europe is,15,0.7096
+65,Vincent,int. '74 Chevy (moving),morning,Its the little differences A lotta the same shit we got here they got there but there theyre a little different,21,-0.3182
+67,Vincent,int. '74 Chevy (moving),morning,Well in Amsterdam you can buy beer in a movie theatre And I dont mean in a paper cup either They give you a glass of beer like in a bar In Paris you can buy beer at MacDonalds Also you know what they call a Quarter Pounder with Cheese in Paris,52,0.5574
+69,Vincent,int. '74 Chevy (moving),morning,No they got the metric system there they wouldnt know what the fuck a Quarter Pounder is,17,-0.6908
+78,Jules,int. '74 Chevy (moving),morning,Goddamn,1,-0.4767
+79,Vincent,int. '74 Chevy (moving),morning,I seen em do it And I dont mean a little bit on the side of the plate they fuckin drown em in it,24,-0.5719
+85,Jules,int. Chevy (trunk),morning,Im not sure,3,-0.2411
+90,Jules,ext. apartment building courtyard,morning,Mia,1,-0.296
+96,Jules,ext. apartment building courtyard,morning,Well you know the shows on TV,7,0.2732
+98,Jules,ext. apartment building courtyard,morning,Yes but youre aware that theres an invention called television and on that invention they show shows,17,0.2144
+99,Vincent,ext. apartment building courtyard,morning,Yeah,1,0.296
+100,Jules,ext. apartment building courtyard,morning,Well the way they pick the shows on TV is they make one show and that shows called a pilot And they show that one show to the people who pick the shows and on the strength of that one show they decide if they want to make more shows Some get accepted and become TV programs and some dont and become nothing She starred in one of the ones that became nothing,73,0.7717
+101,Jules,int. reception area (apartment building),morning,You remember Antwan Rockamora Half black halfSamoan usta call him Tony Rocky Horror,13,-0.5719
+102,Vincent,int. reception area (apartment building),morning,Yeah maybe fat right,4,0.296
+103,Jules,int. reception area (apartment building),morning,I wouldnt go so far as to call the brother fat Hes got a weight problem Whats the nigger gonna do hes Samoan,23,-0.7906
+105,Jules,int. reception area (apartment building),morning,Well Marsellus fucked his ass up good And word around the campfire it was on account of Marsellus Wallaces wife,20,-0.5994
+106,Vincent,int. elevator,morning,Whatd he do fuck her,5,-0.5423
+107,Jules,int. elevator,morning,No no no no no no no nothin that bad,10,-0.9423
+108,Vincent,int. elevator,morning,Well what then,3,0.2732
+113,Jules,int. elevator,morning,Sent a couple of guys over to his place They took him out on the patio of his apartment threw his ass over the balcony Nigger fell four stories They had this garden at the bottom enclosed in glass like one of them greenhouses  nigger fell through that Since then hes kinda developed a speech impediment,56,-0.891
+114,Vincent,int. elevator,morning,Thats a damn shame,4,-0.7003
+115,Vincent,int. apartment building hallway,morning,Still I hafta say play with matches ya get burned,10,0.34
+118,Jules,int. apartment building hallway,morning,You dont think he overreacted,5,0.3089
+119,Vincent,int. apartment building hallway,morning,Antwan probably didnt expect Marsellus to react like he did but he had to expect a reaction,17,0.1901
+121,Vincent,int. apartment building hallway,morning,Its laying hands on Marsellus Wallaces new wife in a familiar way Is it as bad as eatin her out  no but youre in the same fuckin ballpark,28,-0.431
+122,Jules,int. apartment building hallway,morning,Whoa whoa whoa stop right there Eatin a bitch out and givin a bitch a foot massage aint even the same fuckin thing,23,-0.8689
+124,Jules,int. apartment building hallway,morning,It aint no ballpark either Look maybe your method of massage differs from mine but touchin his ladys feet and stickin your tongue in her holyiest of holyies aint the same ballpark aint the same league aint even the same fuckin sport Foot massages dont mean shit,47,0.652
+128,Jules,int. apartment building hallway,morning,Shit yeah I got my technique down man I dont tickle or nothin,13,-0.34
+130,Jules,int. apartment building hallway,morning,Fuck you,2,-0.5423
+132,Jules,int. apartment building hallway,morning,Fuck you,2,-0.5423
+133,Vincent,int. apartment building hallway,morning,Would you give me a foot massage  Im kinda tired,10,-0.3832
+138,Jules,int. apartment building hallway,morning,Look just because I wouldnt give no man a foot massage dont make it right for Marsellus to throw Antwan off a building into a glass motherfuckinhouse fuckin up the way the nigger talks That aint right man Motherfucker do that to me he better paralyze my ass cause Id killa motherfucker,52,-0.7139
+139,Vincent,int. apartment building hallway,morning,Im not sayin he was right but youre sayin a foot massage dont mean nothing and Im sayin it does Ive given a million ladies a million foot massages and they all meant somethin We act like they dont but they do Thats whats so fuckin cool about em This sensual things goin on that nobodys talkin about but you know it and she knows it fuckin Marsellus knew it and Antwan shoulda known fuckin better Thats his fuckin wife man He aint gonna have a sense of humor about that shit,92,0.803
+140,Jules,int. apartment building hallway,morning,Thats an interesting point but lets get into character,9,0.2144
+142,Jules,int. apartment building hallway,morning,Mia Why you so interested in big mans wife,9,0.3163
+143,Vincent,int. apartment building hallway,morning,Well Marsellus is leavin for Florida and when hes gone he wants me to take care of Mia,18,0.4767
+144,Jules,int. apartment building hallway,morning,Take care of her,4,0.4939
+145,Vincent,int. apartment building hallway,morning,Not that Take her out Show her a good time Dont let her get lonely,15,0.1027
+146,Jules,int. apartment building hallway,morning,Youre gonna be takin Mia Wallace out on a date,10,-0.296
+147,Vincent,int. apartment building hallway,morning,It aint a date Its like when you and your buddys wife go to a movie or somethin Its just you know good company,24,0.1999
+152,Brett,int. apartment (room 49),morning,Were doin okay,3,0.2263
+157,Jules,int. apartment (room 49),morning,I thought so Well you remember your business partner Marsellus Wallace dontya Brett,13,0.3384
+159,Jules,int. apartment (room 49),morning,Good for you Looks like me and Vincent caught you at breakfast sorry bout that Whatcha eatin,17,0.6249
+163,Jules,int. apartment (room 49),morning,No I mean where did you getem MacDonalds Wendys Jackinthe Box where,12,-0.296
+166,Brett,int. apartment (room 49),morning,Theyre good,2,0.4404
+168,Brett,int. apartment (room 49),morning,No,1,-0.296
+170,Brett,int. apartment (room 49),morning,Yeah,1,0.296
+172,Vincent,int. apartment (room 49),morning,No,1,-0.296
+173,Jules,int. apartment (room 49),morning,You wanna bite theyre real good,6,0.4404
+175,Jules,int. apartment (room 49),morning,Well if you like hamburgers give em a try sometime Me I cant usually eat em cause my girlfriends a vegetarian Which more or less makes me a vegetarian but I sure love the taste of a good burger You know what they call a Quarter Pounder with Cheese in France,51,0.9423
+176,Brett,int. apartment (room 49),morning,No,1,-0.296
+181,Jules,int. apartment (room 49),morning,Check out the big brain on Brett Youa smart motherfucker thats right The metric system Whats in this,18,-0.4404
+183,Jules,int. apartment (room 49),morning,Sprite good mind if I have some of your tasty beverage to wash this down with,16,0.4404
+184,Brett,int. apartment (room 49),morning,Sure,1,0.3182
+186,Jules,int. apartment (room 49),morning,Then why dont you tell my boy here Vince where you got the shit hid,15,0.8402
+188,Jules,int. apartment (room 49),morning, I dont remember askin you a goddamn thing You were sayin,11,-0.4767
+191,Jules,int. apartment (room 49),morning,We happy,2,0.5719
+193,Jules,int. apartment (room 49),morning,We happy,2,0.5719
+194,Vincent,int. apartment (room 49),morning,Were happy,2,0.5719
+196,Jules,int. apartment (room 49),morning,My names Pitt and you aint talkin your ass outta this shit,12,-0.1901
+197,Brett,int. apartment (room 49),morning,I just want you to know how sorry we are about how fucked up things got between us and Mr Wallace When we entered into this thing we only had the best intentions ,33,-0.0516
+198,Jules,int. apartment (room 49),morning,Oh Im sorry Did that break your concentration I didnt mean to do that Please continue I believe you were saying something about best intentions,25,0.7351
+199,Jules,int. apartment (room 49),morning,Whatsamatter Oh you were through anyway Well let me retort Would you describe for me what Marsellus Wallace looks like,20,0.5574
+202,Jules,int. apartment (room 49),morning,What aint no country I know Do they speak English in What,12,0.2235
+205,Brett,int. apartment (room 49),morning,Yes,1,0.4019
+207,Brett,int. apartment (room 49),morning,Yes,1,0.4019
+208,Jules,int. apartment (room 49),morning,Now describe what Marsellus Wallace looks like,7,0.3612
+210,Jules,int. apartment (room 49),morning,Say What again Cmon say What again I dare ya I double dare ya motherfucker say What one more goddamn time,21,-0.8399
+211,Jules,int. apartment (room 49),morning,Now describe to me what Marsellus Wallace looks like,9,0.3612
+212,Brett,int. apartment (room 49),morning,Well hes hes black ,4,0.2732
+215,Jules,int. apartment (room 49),morning, does he look like a bitch,6,-0.3182
+218,Brett,int. apartment (room 49),morning,No,1,-0.296
+219,Jules,int. apartment (room 49),morning,Then why did you try to fuck im like a bitch,11,-0.7003
+221,Jules,int. apartment (room 49),morning,Yes ya did Brett Ya tried ta fuck im You ever read the Bible Brett,15,-0.2023
+222,Brett,int. apartment (room 49),morning,Yes,1,0.4019
+223,Jules,int. apartment (room 49),morning,Theres a passage I got memorized seems appropriate for this situation Ezekiel  The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men Blessed is he who in the name of charity and good will shepherds the weak through the valley of darkness for he is truly his brothers keeper and the finder of lost children And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers And you will know my name is the Lord when I lay my vengeance upon you,107,-0.9186
+224,Marsellus,int. apartment (room 49),morning,I think youre gonna find  when all this shit is over and done  I think youre gonna find yourself one smilin motherfucker Thing is Butch right now you got ability But painful as it may be ability dont last Now thats a hard motherfuckin fact of life but its a fact of life your ass is gonna hafta git realistic about This business is filled to the brim with unrealistic motherfuckers who thought their ass aged like wine Besides even if you went all the way what would you be Featherweight champion of the world Who gives a shit I doubt you can even get a credit card based on that,111,-0.9313
+225,Marsellus,int. apartment (room 49),morning,Now the night of the fight you may fell a slight sting thats pride fuckin wit ya Fuck pride Pride only hurts it never helps Fight through that shit Cause a year from now when youre kickin it in the Caribbean youre gonna say Marsellus Wallace was right,48,-0.765
+226,Butch,int. apartment (room 49),morning,I got no problem with that,6,-0.5994
+227,Marsellus,int. apartment (room 49),morning,In the fifth your ass goes down,7,-0.5423
+229,Butch,int. apartment (room 49),morning,In the fifth my ass goes down,7,-0.5423
+230,English Dave,ext. Sally LeRoy's,day,Vincent Vega our man in Amsterdam git your ass on in here,12,-0.5423
+233,English Dave,int. Sally LeRoy's,day,Hang back for a second or two and when you see the white boy leave go on over In the meanwhile can I make you an espresso,27,-0.0516
+235,English Dave,int. Sally LeRoy's,day,Comin up I hear youre taking Mia out tomorrow,9,-0.296
+237,English Dave,int. Sally LeRoy's,day,Have you met Mia,4,-0.296
+239,Vincent,int. Sally LeRoy's,day,Whats so funny,3,0.4927
+240,English Dave,int. Sally LeRoy's,day,Not a goddamn thing,4,0.3724
+241,Vincent,int. Sally LeRoy's,day,Look Im not a idiot Shes the big mans fuckin wife Im gonna sit across a table chew my food with my mouth closed laugh at her jokes and thats all Im gonna do,34,0.8075
+246,Butch,int. Sally LeRoy's,day,Lookin at somethin friend,4,0.4939
+247,Vincent,int. Sally LeRoy's,day,I aint your friend palooka,5,-0.3875
+249,Vincent,int. Sally LeRoy's,day,I think ya heard me just fine punchy,8,0.2023
+250,Marsellus,int. Sally LeRoy's,day,Vincent Vega has entered the building git your ass over here,11,-0.5423
+252,Jody,int. Lance's house (kitchen),night,Ill lend it to you Its a great book on body piercing,12,0.3182
+253,Trudi,int. Lance's house (kitchen),night,You know how they use that gun when they pierce your ears They dont use that when they pierce your nipples do they,23,-0.34
+254,Jody,int. Lance's house (kitchen),night,Forget that gun That gun goes against the entire idea behind piercing All of my piercing sixteen places on my body every one of em done with a needle Five in each ear One through the nipple on my left breast One through my right nostril One through my left eyebrow One through my lip One in my clit And I wear a stud in my tongue,67,-0.6908
+255,Vincent,int. Lance's house (kitchen),night,Excuse me sorry to interrupt Im curious why would you get a stud in your tongue,16,-0.0258
+256,Jody,int. Lance's house (kitchen),night,Its a sex thing It helps fellatio,7,0.3818
+258,Lance,int. Lance's bedroom,night,Now this is Panda from Mexico Very good stuff This is Bava different but equally good And this is Choco from the Hartz Mountains of Germany Now the first two are the same forty five an ounce  those are friend prices  but this one this ones a little more expensive Its fiftyfive But when you shoot it youll know where that extra money went Nothing wrong with the first two Its real real real good shit But this ones a fuckin madman,82,0.8835
+260,Lance,int. Lance's bedroom,night,Am I a nigger Are you in Inglewood No Youre in my house White people who know the difference between good shit and bad shit this is the house they come to My shit Ill take the Pepsi Challenge with Amsterdam shit any ol day of the fuckin week,49,-0.975
+261,Vincent,int. Lance's bedroom,night,Thats a bold statement,4,0.3818
+262,Lance,int. Lance's bedroom,night,This aint Amsterdam Vince This is a sellers market Coke is fuckin dead as disco Heroins comin back in a big fuckin way Its this whole seventies retro Bell bottoms heroin theyre as hot as hell,36,-0.9201
+263,Vincent,int. Lance's bedroom,night,Give me three hundred worth of the madman If its as good as you say Ill be back for a thousand,21,0.25
+264,Lance,int. Lance's bedroom,night,I just hope I still have it Whaddya think of Trudi She aint got a boyfriend wanna hand out an get high,22,0.7269
+265,Vincent,int. Lance's bedroom,night,Which ones Trudi The one with all the shit in her face,12,0.6124
+266,Lance,int. Lance's bedroom,night,No thats Jody Thats my wife,6,-0.296
+267,Vincent,int. Lance's bedroom,night,Im on my way somewhere I got a dinner engagement Rain check,12,0.4588
+268,Lance,int. Lance's bedroom,night,No problem,2,-0.5994
+269,Vincent,int. Lance's bedroom,night,You dont mind if I shoot up here,8,0.2584
+273,Vincent,int. Lance's bedroom,night,You know what some fucker did to it the other day,11,-0.6486
+276,Lance,int. Lance's bedroom,night,Oh man thats fucked up,5,-0.6597
+277,Vincent,int. Lance's bedroom,night,Tell me about it I had the goddamn thing in storage three years Its out five fuckin days  five days and some dickless piece of shit fucks with it,29,-0.8689
+278,Lance,int. Lance's bedroom,night,They should be fuckin killed No trial no jury straight to execution,12,-0.7906
+279,Vincent,int. Lance's bedroom,night,I just wish I caught em doin it ya know Oh man Id give anything to catch em doin it Ita been worth his doin it if I coulda just caught em you know what I mean,37,0.5574
+280,Lance,int. Lance's bedroom,night,Its chicken shit You dont fuck another mans vehicle,9,-0.1901
+287,Mia,int. Marsellus' house / living room,night,warm Warmer Disco,3,0.4767
+289,Mia,int. Marsellus' house / living room,night,Push the button if you want to talk,8,0.0772
+291,Mia,int. Marsellus' house / dressing room,night,Go make yourself a drink and Ill be down in two shakes of a lambs tail,16,-0.4215
+293,Vincent,int. Marsellus' house / living room,night,Okay,1,0.2263
+295,Vincent,ext. Jackrabbit Slim's,night,What the fuck is this place,6,-0.5423
+296,Mia,ext. Jackrabbit Slim's,night,This is Jackrabbit Slims An Elvis man should love it,10,0.6369
+297,Vincent,ext. Jackrabbit Slim's,night,Come on Mia lets go get a steak,8,-0.296
+301,Vincent,int. Jackrabbit Slim's,night,Ill have the Douglas Sirk steak,6,-0.4215
+302,Buddy,int. Jackrabbit Slim's,night,How dya want it burnt to a crisp or bloody as hell,12,-0.802
+303,Vincent,int. Jackrabbit Slim's,night,Bloody as hell And to drink a vanilla coke,9,-0.8176
+305,Mia,int. Jackrabbit Slim's,night,Ill have the Durwood Kirby burger  bloody  and a fivedollar shake,11,-0.7506
+306,Buddy,int. Jackrabbit Slim's,night,How dya want that shake Martin and Lewis or Amos and Andy,12,-0.1027
+308,Vincent,int. Jackrabbit Slim's,night,Did you just order a fivedollar shake,7,-0.1779
+309,Mia,int. Jackrabbit Slim's,night,Sure did,2,0.3182
+310,Vincent,int. Jackrabbit Slim's,night,A shake Milk and ice cream,6,-0.1779
+313,Buddy,int. Jackrabbit Slim's,night,Yep,1,0.296
+318,Vincent,int. Jackrabbit Slim's,night,Its like a wax museum with a pulse rate,9,0.3612
+323,Mia,int. Jackrabbit Slim's,night,Oh Well in that case will you roll me one cowboy,11,0.2732
+325,Mia,int. Jackrabbit Slim's,night,Thanks,1,0.4404
+328,Vincent,int. Jackrabbit Slim's,night,Sure did I heard you did a pilot,8,0.3182
+333,Mia,int. Jackrabbit Slim's,night,Fox Force Five Fox as in were a bunch of foxy chicks Force as in were a force to be reckoned with Five as in theres one two  three four five of us There was a blonde one Sommerset ONeal from that show Baton Rouge she was the leader A Japanese one a black one a French one and a brunette one me We all had special skills Sommerset had a photographic memory the Japanese fox was a kung fu master the black girl was a demolition expert the French fox specialty was sex,95,-0.4588
+335,Mia,int. Jackrabbit Slim's,night,Knives The character I played Raven McCoy her background was she was raised by circus performers So she grew up doing a knife act According to the show she was the deadliest woman in the world with a knife But because she grew up in a circus she was also something of an acrobat She could do illusions she was a trapeze artist  when youre keeping the world safe from evil you never know when being a trapeze artists gonna come in handy And she knew a zillion old jokes her grandfather an old vaudevillian taught her If we woulda got picked up they woulda worked in a gimmick where every episode I woulda told and ol joke,118,0.4118
+336,Vincent,int. Jackrabbit Slim's,night,Do you remember any of the jokes,7,0.25
+337,Mia,int. Jackrabbit Slim's,night,Well I only got the chance to say one cause we only did one show,15,0.4767
+339,Mia,int. Jackrabbit Slim's,night,No Its really corny,4,-0.296
+341,Mia,int. Jackrabbit Slim's,night,No You wont like it and Ill be embarrassed,9,-0.8229
+342,Vincent,int. Jackrabbit Slim's,night,You told it in front of fifty million people and you cant tell it to me I promise I wont laugh,21,-0.1591
+345,Mia,int. Jackrabbit Slim's,night,Youre quite the silver tongue devil arent you,8,-0.6597
+346,Vincent,int. Jackrabbit Slim's,night,I meant I wouldnt laugh at you,7,-0.4449
+347,Mia,int. Jackrabbit Slim's,night,Thats not what you said Vince Well now Im definitely not gonna tell ya cause its been built up too much,21,0.5859
+349,Mia,int. Jackrabbit Slim's,night,Yummy,1,0.5267
+350,Vincent,int. Jackrabbit Slim's,night,Can I have a sip of that Id like to know what a fivedollar shake tastes like,17,0.5106
+353,Vincent,int. Jackrabbit Slim's,night,Yeah but maybe I do,5,0.1531
+355,Vincent,int. Jackrabbit Slim's,night,Goddamn Thats a pretty fuckin good milk shake,8,0.3182
+357,Vincent,int. Jackrabbit Slim's,night,I dont know if its worth five dollars but its pretty fuckin good,13,0.8625
+358,Mia,int. Jackrabbit Slim's,night,Dont you hate that,4,0.4585
+360,Mia,int. Jackrabbit Slim's,night,Uncomfortable silences Why do we feel its necessary to yak about bullshit in order to be comfortable,17,-0.4767
+362,Mia,int. Jackrabbit Slim's,night,Thats when you know you found somebody special When you can just shit the fuck up for a minute and comfortably share silence,23,-0.1027
+363,Vincent,int. Jackrabbit Slim's,night,I dont think were there yet But dont feel bad we just met each other,15,0.5824
+364,Mia,int. Jackrabbit Slim's,night,Well Ill tell you what Ill go to the bathroom and powder my nose while you sit here and think of something to say,24,-0.5423
+365,Vincent,int. Jackrabbit Slim's,night,Ill do that,3,-0.4215
+366,Mia,int. Jackrabbit Slim's (ladies room),night,I said goddamn,3,-0.4767
+367,Mia,int. Jackrabbit Slim's (dining area),night,Dont you love it when you go to the bathroom and you come back to find your food waiting for you,21,-0.5216
+368,Vincent,int. Jackrabbit Slim's (dining area),night,Were lucky we got it at all Buddy Holly doesnt seem to be much of a waiter We shoulda sat in Marilyn Monroes section,24,0.4215
+370,Vincent,int. Jackrabbit Slim's (dining area),night,No theres not,3,-0.296
+373,Mia,int. Jackrabbit Slim's (dining area),night,Pretty smart,2,0.7096
+376,Vincent,int. Jackrabbit Slim's (dining area),night,Actually theres something Ive wanted to ask you about but you seem like a nice person and I didnt want to offend you,23,0.838
+377,Mia,int. Jackrabbit Slim's (dining area),night,Oooohhhh this doesnt sound like mindless boring gettingtoknow you chitchat This sounds like you actually have something to say,19,-0.4791
+378,Vincent,int. Jackrabbit Slim's (dining area),night,Only if you promise not to get offended,8,0.466
+379,Mia,int. Jackrabbit Slim's (dining area),night,You cant promise something like that I have no idea what youre gonna ask You could ask me what youre gonna ask me and my natural response could be to be offended Then through no fault of my own I woulda broken my promise,44,-0.9142
+380,Vincent,int. Jackrabbit Slim's (dining area),night,Then lets just forget it,5,-0.2263
+381,Mia,int. Jackrabbit Slim's (dining area),night,That is an impossibility Trying to forget anything as intriguing as this would be an exercise in futility,18,-0.2263
+383,Mia,int. Jackrabbit Slim's (dining area),night,Besides its more exciting when you dont have permission,9,0.5413
+386,Vincent,int. Jackrabbit Slim's (dining area),night,Tony Rocky Horror,3,-0.5719
+390,Vincent,int. Jackrabbit Slim's (dining area),night,No its not its just what I heard,8,-0.296
+394,Vincent,int. Jackrabbit Slim's (dining area),night,They certainly do,3,0.34
+395,Mia,int. Jackrabbit Slim's (dining area),night,Well dont by shy Vincent what exactly did they say,10,0.4291
+396,Mia,int. Jackrabbit Slim's (dining area),night,Let me help you Bashful did it involve the Fword,10,0.3818
+397,Vincent,int. Jackrabbit Slim's (dining area),night,No They just said Rocky Horror gave you a foot massage,11,-0.7096
+399,Vincent,int. Jackrabbit Slim's (dining area),night,No and thats it,4,-0.296
+400,Mia,int. Jackrabbit Slim's (dining area),night,You heard Marsellus threw Rocky Horror out of a fourstory window because he massaged my feet,16,-0.5719
+401,Vincent,int. Jackrabbit Slim's (dining area),night,Yeah,1,0.296
+404,Mia,int. Jackrabbit Slim's (dining area),night,Marsellus throwing Tony out of a four story window for giving me a foot massage seemed reasonable,17,0.34
+405,Vincent,int. Jackrabbit Slim's (dining area),night,No it seemed excessive But that doesnt mean it didnt happen I heard Marsellus is very protective of you,19,-0.1531
+406,Mia,int. Jackrabbit Slim's (dining area),night,A husband being protective of his wife is one thing A husband almost killing another man for touching his wifes feet is something else,24,-0.6258
+408,Mia,int. Jackrabbit Slim's (dining area),night,The only thing Antwan ever touched of mine was my hand when he shook it I met Anwan once  at my wedding  then never again The truth is nobody knows why Marsellus tossed Tony Rocky Horror out of that window except Marsellus and Tony Rocky Horror But when you scamps get together youre worse than a sewing circle,58,-0.8142
+410,Ed Sullivan,int. Jackrabbit Slim's (dining area),night,One lucky couple will win this handsome trophy that Marilyn here is holding,13,0.8847
+414,Vincent,int. Jackrabbit Slim's (dining area),night,No no no no no no no no,8,-0.9274
+415,Mia,int. Jackrabbit Slim's (dining area),night,No no no no no no no I do believe Marsellus my husband your boss told you to take me out and do whatever I wanted Now I want to dance I want to win I want that trophy,39,-0.7717
+417,Mia,int. Jackrabbit Slim's (dining area),night,So dance good,3,0.4902
+421,Mia,int. Jackrabbit Slim's (dining area),night,Missus Mia Wallace,3,-0.296
+425,Vincent,int. Marsellus Wallace's home,night,Was than an uncomfortable silence,5,-0.3818
+427,Vincent,int. Marsellus Wallace's home,night,Im gonna take a piss,5,-0.4019
+430,Vincent,int. bathroom (Marsellus Wallace's house),night,One drink and leave Dont be rude but drink your drink quickly say goodbye walk out the door get in your car and go down the road,27,0.163
+431,Vincent,int. bathroom (Marsellus Wallace's house),night,Its a moral test of yourself whether or not you can maintain loyalty Because when people are loyal to each other thats very meaningful,24,0.8479
+432,Vincent,int. bathroom (Marsellus Wallace's house),night,So youre gonna go out there drink your drink say Goodnight Ive had a very lovely evening go home and jack off And thats all youre gonna do,28,0.624
+434,Vincent,int. Marsellus' house / living room,night,Mia MIA What the hell happened,6,-0.8668
+435,Vincent,int. Marsellus' house / living room,night,Ill be a sonofabitch Mia MIA What did you take Answer me honey what did you take,17,-0.7865
+436,Vincent,int. Marsellus' house / living room,night,Okay honey were getting you on your feet,8,0.2263
+438,Preacher (Emil Simkus),int. Lance's house,night,Hold hands you love birds,5,0.6369
+441,Jody,int. Lance's house,night,I thought you told those fuckin assholes never to call this late,12,-0.5859
+443,Vincent,int. Vincent's malibu (moving),night,Lance this is Vincent Im in big fuckin trouble man Im on my way to your place,17,-0.4019
+444,Lance,int. Lance's house,night,Whoa hold you horses man whats the problem,8,-0.4019
+448,Lance,int. Lance's house,night,Dont bring her here Im not even fuckin joking with you dont you be bringing some fucked up poohbutt to my house,22,-0.7241
+449,Vincent,int. Vincent's malibu (moving),night,No choice,2,-0.296
+451,Vincent,int. Vincent's malibu (moving),night,Yeah Shes dyin,3,0.296
+453,Vincent,int. Vincent's malibu (moving),night,Negative,1,-0.5719
+454,Lance,int. Lance's house,night,She aint my fuckin problem you fucked her up you deal with it  are you talkin to me on a cellular phone,22,-0.484
+455,Vincent,int. Vincent's malibu (moving),night,Sorry,1,-0.0772
+458,Jody,int. Lance's house,night,What the hell was that,5,-0.6808
+459,Lance,ext. Lance's house,night,Have you lost your mind You crashed your car in my fuckin house You talk about drug shit on a cellular fuckin phone ,23,-0.7096
+460,Vincent,ext. Lance's house,night,If youre through havin your little hissy fit this chick is dyin get your needle and git it now,19,0.3008
+461,Lance,ext. Lance's house,night,Are you deaf Youre not bringin that fucked up bitch in my house,13,-0.0731
+462,Vincent,ext. Lance's house,night,This fucked up bitch is Marsellus Wallaces wife Now if she fuckin croaks on me Im a grease spot But before he turns me into a bar soap Im gonna be forced to tell im about how you coulda saved her life but instead you let her die on your front lawn,52,-0.8945
+463,Jody,living room,night,Its only onethirty in the goddamn mornin What the fucks goin on out here,14,-0.7351
+466,Jody,living room,night,Whats wrong with her,4,-0.4767
+468,Jody,living room,night,Well get her the hell outta here,7,-0.5423
+472,Vincent,living room,night,You two are a match made in heaven,8,0.5106
+473,Lance,living room,night,Look just keep talkin to her okay While shes gettin the shot I gotta get a medical book,18,0.2263
+477,Lance,living room,night,I never had to use it I dont go joypoppin with bubblegummers all of my friends can handle their highs,20,0.4767
+478,Vincent,living room,night,Well then get it,4,0.2732
+481,Lance,living room,night,Stop talkin to me and start talkin to her,9,-0.296
+489,Lance,int. spare room,night,My black fuckin medical book Its like a text book they give to nurses,14,0.3612
+491,Lance,int. spare room,night,Trust me I have one,5,0.5106
+492,Jody,int. spare room,night,Well if its that important why didnt you keep it with the shot,13,0.4404
+493,Lance,int. spare room,night,I dont know Stop bothering me,6,0.4717
+494,Jody,int. spare room,night,While youre lookin for it that girls gonna die on our carpet Youre never gonna find it in all this shit For six months now Ive been telling you to clean this room ,33,-0.7543
+495,Vincent,int. spare room,night, get your ass in here fuck the book,8,-0.7906
+499,Lance,living room,night,Yeah it has to be exact Im giving her an injection in the heart so I gotta exactly hit her in the heart,23,0.5574
+500,Vincent,living room,night,Well I dont know exactly where her heart is I think its here,13,0.2732
+504,Vincent,living room,night,I need a big fat magic marker any felt penll do but a magic marker would be great,18,0.7684
+506,Lance,living room,night,Its ready Ill tell you what to do,8,-0.0772
+508,Lance,living room,night,No youre gonna give her the shot,7,-0.296
+510,Lance,living room,night,Ive never done this before either and I aint starting now You brought er here that means you give her the shot The day I bring an ODing bitch to your place then I gotta give her the shot,39,-0.5859
+512,Vincent,living room,night,Okay what do I do,5,0.2263
+513,Lance,living room,night,Well youre giving her an injection of adrenaline straight to her heart But shes got a breast plate in front of her heart so you gotta pierce through that So what you gotta do is bring the needle down in a stabbing motion,43,0.4019
+514,Vincent,living room,night,I gotta stab her,4,-0.5859
+515,Lance,living room,night,If you want the needle to pierce through to her heart you gotta stab her hard Then once you do push down on the plunger,25,-0.5994
+517,Lance,living room,night,Im curious about that myself,5,0.3182
+518,Vincent,living room,night,This aint a fuckin joke man,6,-0.2235
+519,Lance,living room,night,Shes supposed to come out of it like   that,9,0.3612
+524,Lance,living room,night,If youre okay say something,5,0.2263
+526,Jody,living room,night,Anybody want a beer,4,0.0772
+527,Vincent,ext. front of Marsellus Wallace's house,night,Mia,1,-0.296
+530,Vincent,ext. front of Marsellus Wallace's house,night,Well Im of the opinion that Marsellus can live his whole live and never ever hear of this incident,19,0.2732
+531,Mia,ext. front of Marsellus Wallace's house,night,Dont worry about it If Marsellus ever heard of this Id be in as much trouble as you,18,-0.0757
+532,Vincent,ext. front of Marsellus Wallace's house,night,I seriously doubt that,4,-0.4939
+534,Vincent,ext. front of Marsellus Wallace's house,night,Lets shake on it,4,-0.1779
+536,Vincent,ext. front of Marsellus Wallace's house,night,If youll excuse me I gotta go home and have a heart attack,13,-0.4215
+537,Mia,ext. front of Marsellus Wallace's house,night,You still wanna hear my FOX FORCE FIVE joke,9,0.296
+538,Vincent,ext. front of Marsellus Wallace's house,night,Sure but I think Im still a little too petrified to laugh,12,0.2999
+539,Mia,ext. front of Marsellus Wallace's house,night,Uhhuh You wont laugh because its not funny But if you still wanna hear it Ill tell it,18,-0.748
+541,Mia,ext. front of Marsellus Wallace's house,night,Three tomatoes are walking down the street a poppa tomato a momma tomato and a little baby tomato The baby tomato is lagging behind the poppa and momma tomato The poppa tomato gets mad goes over to the momma tomato and stamps on him   and says catch up,48,-0.6486
+544,Mother,ext. front of Marsellus Wallace's house,night,Butch stop watching TV a second We got a special visitor Now do you remember when I told you your daddy dies in a POW camp,26,0.128
+546,Mother,ext. front of Marsellus Wallace's house,night,Well this here is Capt Koons He was in the POW camp with Daddy,14,0.2732
+547,Capt. Koons,ext. front of Marsellus Wallace's house,night,Hello little man Boy I sure heard a bunch about you See I was a good friend of your Daddys We were in that Hanoi pit of hell over five years together Hopefully youll never have to experience this yourself but when two men are in a situation like me and your Daddy were for as long as we were you take on certain responsibilities of the other If it had been me who had not made it Major Coolidge would be talkin right now to my son Jim But the way it worked out is Im talkin to you Butch I got somethin for ya,106,0.8185
+548,Capt. Koons,ext. front of Marsellus Wallace's house,night,This watch I got here was first purchased by your greatgranddaddy It was bought during the First World War in a little general store in Knoxville Tennessee It was bought by private Doughboy Ernie Coolidge the day he set sail for Paris It was your greatgranddaddys war watch made by the first company to ever make wrist watches You see up until then people just carried pocket watches Your greatgranddaddy wore that watch every day he was in the war Then when he had done his duty he went home to your great grandmother took the watch off his wrist and put it in an ol coffee can And in that can it stayed til your grandfather Dane Coolidge was called upon by his country to go overseas and fight the Germans once again This time they called it World War Two Your greatgranddaddy gave it to your granddad for good luck Unfortunately Danes luck wasnt as good as his old mans Your granddad was a Marine and he was killed with all the other Marines at the battle of Wake Island Your granddad was facing death and he knew it None of those boys had any illusions about ever leavin that island alive So three days before the Japanese took the island your year old grandfather asked a gunner on an Air Force transport named Winocki a man he had never met before in his life to deliver to his infant son who he had never seen in the flesh his gold watch Three days later your grandfather was dead But Winocki kept his word After the war was over he paid a visit to your grandmother delivering to your infant father his Dads gold watch This watch This watch was on your Daddys wrist when he was shot down over Hanoi He was captured and put in a Vietnamese prison camp Now he knew if the gooks ever saw the watch itd be confiscated The way your Daddy looked at it that watch was your birthright And hed be damned if and slopeheads were gonna put their greasy yella hands on his boys birthright So he hid it in the one place he knew he could hide somethin His ass Five long years he wore this watch up his ass Then when he died of dysentery he gave me the watch I hid with uncomfortable hunk of metal up my ass for two years Then after seven years I was sent home to my family And now little man I give the watch to you,427,-0.9947
+550,Butch,int. locker room,night,Im ready,2,0.3612
+551,Sportscaster #1,int. locker room,night, Well Dan that had to be the bloodiest and handsdown the most brutal fight this city has ever seen,19,-0.7328
+552,Sportscaster #1,ext. alley (raining),night,Coolidge was out of there faster than Ive ever seen a victorious boxer vacate the ring Do you think he knew Willis was dead,24,-0.6486
+553,Sportscaster #2,ext. alley (raining),night,My guess would be yes Richard I could see from my position here the frenzy in his eyes give way to the realization of what he was doing I think any man wouldve left the ring that fast,38,0.1027
+554,Sportscaster #1,int. taxi (parked / raining),night,Do you feel this ring death tragedy will have an effect on the world of boxing,16,-0.8519
+555,Sportscaster #2,int. taxi (parked / raining),night,Oh Dan a tragedy like this cant help but shake the world of boxing to its very foundation But its of paramount importance that during the sad weeks ahead the eyes of the WBA remain firmly fixed on the ,39,-0.4023
+560,Vincent,int. Willis locker room (auditorium),night,Mia How you doin,4,-0.296
+561,Mia,int. Willis locker room (auditorium),night,Great I never thanked you for the dinner,8,0.4007
+564,Marsellus,int. Willis locker room (auditorium),night,Im prepared to scour the earth for this motherfucker If Butch goes to Indo China I want a nigger hidin in a bowl of rice ready to pop a cap in his ass,33,-0.891
+565,English Dave,int. Willis locker room (auditorium),night,Ill take care of it,5,0.1027
+570,Esmarelda,int. cab (moving / raining),night,You were in that fight The fight on the radio  youre the fighter,13,-0.5574
+572,Esmarelda,int. cab (moving / raining),night,No cmon youre him I know youre him tell me youre him,12,-0.296
+574,Esmarelda,int. cab (moving / raining),night,You killed the other boxing man,6,-0.6705
+575,Butch,int. cab (moving / raining),night,Hes dead,2,-0.6486
+576,Esmarelda,int. cab (moving / raining),night,The radio said he was dead,6,-0.6486
+577,Butch,int. cab (moving / raining),night,Sorry bout that Floyd,4,-0.0772
+578,Esmarelda,int. cab (moving / raining),night,What does it feel like,5,0.3612
+579,Butch,int. cab (moving / raining),night,What does what feel like,5,0.3612
+580,Esmarelda,int. cab (moving / raining),night,Killing a man Beating another man to death with your bare hands,12,-0.9062
+581,Butch,int. cab (moving / raining),night,Are you some kinda weirdo,5,-0.3626
+582,Esmarelda,int. cab (moving / raining),night,No its a subject I have much interest in You are the first person I ever met who has killed somebody So what was it like to kill a man,30,-0.7845
+583,Butch,int. cab (moving / raining),night,Tell ya what you give me one of them cigarettes Ill give you an answer,15,-0.4215
+588,Butch,int. cab (moving / raining),night,Its a very pretty name,5,0.5413
+590,Butch,int. cab (moving / raining),night,Thats one hell of a name you got there sister,10,-0.6808
+591,Esmarelda,int. cab (moving / raining),night,Thank you And what is your name,7,0.3612
+594,Butch,int. cab (moving / raining),night,Im an American our names dont mean shit Anyway moving right along what is it you wanna know Esmarelda,19,0.4449
+595,Esmarelda,int. cab (moving / raining),night,I want to know what it feels like to kill a man ,12,-0.4404
+596,Butch,int. cab (moving / raining),night, I couldnt tell ya I didnt know he was dead til you told me he was dead Now I know hes dead do you wanna know how I feel about it,31,-0.9313
+597,Butch,int. cab (moving / raining),night,I dont feel the least little bit bad,8,-0.4976
+598,Butch,ext. phone booth (raining),night,Whatd I tell ya soon as the word got out a fix was in the odds would be outta control Hey if he was a better fighter hes be alive If he never laced up his gloves in the first place which he never shoulda done hed be alive Enough about the poor unfortunate Mr Floyd lets talk about the rich and prosperous Mr Butch How many bookies you spread it around with Eight How long to collect So by tomorrow evening youll have it all Good news Scotty real good news  I understand a few stragglers aside Me an Fabiennere gonna leave in the morning It should take us a couple days to get into Knoxville Next time we see each other itll be on Tennessee time,128,0.9313
+599,Butch,ext. phone booth (raining),night,Fabienne my love our adventure begins,6,0.7579
+603,Esmarelda,ext. motel (stopped / raining),night,The truth Three welldressed slightly toasted Mexicans,7,0.3182
+605,Esmarelda,ext. motel (stopped / raining),night,Sleep well Butch,3,0.2732
+607,Butch,int. motel (room six),night,Is that better sugar pop,5,0.4404
+608,Fabienne,int. motel (room six),night,Oui Hard day at the office,6,-0.1027
+609,Butch,int. motel (room six),night,Pretty hard I got into a fight,7,0.0516
+610,Fabienne,int. motel (room six),night,Poor baby Can we make spoons,6,-0.4767
+613,Fabienne,int. motel (room six),night,I wish I had a pot,6,0.4019
+614,Butch,int. motel (room six),night,You were lookin in the mirror and you wish you had some pot,13,0.4019
+615,Fabienne,int. motel (room six),night,A pot A pot belly Pot bellies are sexy,9,0.5267
+616,Butch,int. motel (room six),night,Well you should be happy cause you do,8,0.7003
+617,Fabienne,int. motel (room six),night,Shut up Fatso I dont have a pot I have a bit of a tummy like Madonna when she did Lucky Star its not the same thing,27,0.6486
+619,Fabienne,int. motel (room six),night,The difference is huge,4,0.3182
+620,Butch,int. motel (room six),night,You want me to have a pot,7,0.0772
+621,Fabienne,int. motel (room six),night,No Pot bellies make a man look either oafish or like a gorilla But on a woman a pot belly is very sexy The rest of you is normal Normal face normal legs normal hips normal ass but with a big perfectly round pot belly If I had one Id wear a teeshirt two sizes too small to accentuate it,60,0.8042
+622,Butch,int. motel (room six),night,You think guys would find that attractive,7,0.4404
+623,Fabienne,int. motel (room six),night,I dont give a damn what men find attractive Its unfortunate what we find pleasing to the touch and pleasing to the eye is seldom the same,27,0.8384
+627,Fabienne,int. motel (room six),night,Id smother you Id drop it on your right on your face til you couldnt breathe,16,-0.5994
+629,Fabienne,int. motel (room six),night,Yes,1,0.4019
+631,Fabienne,int. motel (room six),night,Yes I did,3,0.4019
+632,Butch,int. motel (room six),night,Good job,2,0.4404
+635,Fabienne,int. motel (room six),night,I never listen to your fights Were you the winner,10,0.2732
+636,Butch,int. motel (room six),night,I won alright,3,0.6908
+638,Butch,int. motel (room six),night,Sure am,2,0.3182
+639,Fabienne,int. motel (room six),night,What about the man you fought,6,-0.3182
+641,Fabienne,int. motel (room six),night,Really He wont be fighting no more,7,0.4585
+642,Butch,int. motel (room six),night,Not no more,3,0.2235
+645,Fabienne,int. motel (room six),night,Were in a lot of danger arent we,8,-0.5267
+646,Fabienne,int. motel (room six),night,If they find us theyll kill us wont they,9,-0.6908
+648,Fabienne,int. motel (room six),night,Do you still want me to go with you,9,0.0772
+649,Fabienne,int. motel (room six),night,I dont want to be a burden or a nuisance ,10,-0.4805
+651,Butch,int. motel (room six),night,Fabienne I want you to be with me,8,0.0772
+654,Fabienne,int. motel (room six),night,Do you love me,4,0.6369
+656,Fabienne,int. motel (room six),night,Butch Will you give me oral pleasure,7,0.5719
+657,Butch,int. motel (room six),night,Will you kiss it,4,0.4215
+659,Fabienne,int. motel (room six),night,Butch my love the adventure begins,6,0.7579
+661,Fabienne,int. motel (room six),night,Giving me oral pleasure,4,0.7269
+662,Butch,int. motel (room six),night,No retard from the fight,5,-0.802
+663,Fabienne,int. motel (room six),night,Dont call me retard,4,0.4168
+665,Fabienne,int. motel (room six),night,Shut up fuck head I hate that Mongoloid voice,9,-0.802
+666,Butch,int. motel (room six),night,Okay sorry sorry sorry I take it back Can I have a towel please Miss Beautiful Tulip,17,0.6808
+667,Fabienne,int. motel (room six),night,Oh I like that I like being called a tulip Tulip is much better than Mongoloid,16,0.7845
+668,Butch,int. motel (room six),night,I didnt call you a Mongoloid I called you a retard but I took it back,16,-0.296
+671,Butch,int. motel (room six),night,Yes lemon pie,3,0.4019
+673,Butch,int. motel (room six),night,Im not sure yet Wherever you want Were gonna get a lot of money from this But it aint gonna be so much we can live like hogs in the fat house forever I was thinking we could go somewhere in the South Pacific The kinda money well havell carry us a long way down there,56,0.6312
+677,Butch,int. motel (room six),night,You dont speak Bora Boran either Besides Mexican is easy Donde esta el zapataria,14,0.4404
+681,Butch,int. motel (room six),night,Excellent pronunciation Youll be my little mama ceta in no time,11,0.3612
+686,Butch,int. motel (room six),night,Time for bed Sweet dream jellybean,6,0.6124
+688,Fabienne,int. motel (room six),night,Forget it,2,-0.2263
+689,Fabienne,int. motel (room six),morning,Merde You startled me Did you have a bad dream,10,-0.4939
+691,Fabienne,int. motel (room six),morning,A motorcycle movie Im not sure the name,8,-0.2411
+693,Fabienne,int. motel (room six),morning,In a way Why Would you like for me to switch it off,13,0.3612
+694,Butch,int. motel (room six),morning,Would you please,3,0.3182
+695,Butch,int. motel (room six),morning,Its a little too early in the morning for explosions and war,12,-0.5994
+698,Fabienne,int. motel (room six),morning,No imbecile what was your dream about,7,-0.5267
+699,Butch,int. motel (room six),morning,Oh I dont remember Its really rare I remember a dream,11,0.3102
+701,Butch,int. motel (room six),morning,Fabienne Im not lying to you I dont remember,9,0.4168
+702,Fabienne,int. motel (room six),morning,Well lets look at the grumpy man in the morning I didnt say you were lying its just odd you dont remember your dreams I always remember mine Did you know you talk in your sleep,36,-0.7057
+707,Fabienne,int. motel (room six),morning,Why dont you get up and well get some breakfast at that breakfast place with the pancakes,17,0.2732
+708,Butch,int. motel (room six),morning,One more kiss and Ill get up,7,0.0076
+709,Fabienne,int. motel (room six),morning,Satisfied,1,0.4215
+710,Butch,int. motel (room six),morning,Yep,1,0.296
+711,Fabienne,int. motel (room six),morning,Then get up lazy bones,5,-0.3612
+715,Fabienne,int. motel (room six),morning,Im gonna order a big plate of blueberry pancakes with maple syrup eggs over easy and five sausages,18,0.4404
+717,Fabienne,int. motel (room six),morning,Oh yes that looks nice To drink a tall glass or orange juice and a black cup of coffee After that Im going to have a slice of pie,29,0.6705
+719,Fabienne,int. motel (room six),morning,Any time of the day is a good time for pie Blueberry pie to go with the pancakes And on top a thin slice of melted cheese ,27,0.5719
+722,Butch,int. motel (room six),morning,No its not Its not here,6,-0.296
+724,Butch,int. motel (room six),morning,Yes Ive fuckin looked,4,0.4019
+725,Butch,int. motel (room six),morning,What the fuck do you think Im doing Are you sure you got it,14,-0.296
+726,Fabienne,int. motel (room six),morning,Uhhh yes beside the table drawer ,6,0.4019
+728,Fabienne,int. motel (room six),morning,Yes it was on your little kangaroo,7,0.4019
+729,Butch,int. motel (room six),morning,Well its not here,4,0.2732
+730,Fabienne,int. motel (room six),morning,Well it should be,4,0.2732
+731,Butch,int. motel (room six),morning,Oh it most definitely should be here but its not So where is it,14,0.2492
+732,Butch,int. motel (room six),morning,Fabienne that was my fathers fuckin watch You know what my father went through to git me that watch I dont wanna get into it right now but he went through a lot Now all this other shit you coulda set on fire but I specifically reminded you not to forget my fathers watch Now think did you get it,60,-0.7906
+736,Butch,int. motel (room six),morning,Are you sure,3,0.3182
+737,Fabienne,int. motel (room six),morning,No,1,-0.296
+738,Butch,int. motel (room six),morning,No Its not your fault You left it at the apartment,11,0.015
+739,Butch,int. motel (room six),morning,If you did leave it at the apartment its not your fault I had you bring a bunch of stuff I reminded you about it but I didnt illustrate how personal the watch was to me If all I gave a fuck about was my watch I shouldve told you You aint a mind reader,55,-0.6394
+740,Fabienne,int. motel (room six),morning,Im sorry,2,-0.0772
+745,Butch,int. motel (room six),morning,Thats what Im gonna find out If they are and I dont think I can handle it Ill split,19,-0.4215
+746,Fabienne,int. motel (room six),morning,I was so dreadful I saw your watch I thought I brought it Im so sorry,16,-0.6039
+747,Butch,int. motel (room six),morning,Dont feel bad sugar pop Nothing you could ever do would make me permanently angry at you I love you remember Now heres some money order those pancakes and have a great breakfast,33,0.8338
+749,Butch,int. motel (room six),morning,Ill be back before you can say blueberry pie,9,-0.4215
+751,Butch,int. motel (room six),morning,Well maybe not that fast but fast Okay Okay,9,0.6428
+752,Fabienne,int. motel (room six),morning,Okay,1,0.2263
+756,Fabienne,int. motel (room six),morning,Okay,1,0.2263
+757,Butch,int. Honda (moving),day,Of all the fuckin things she coulda forgot she forgets my fathers watch I specifically reminded her not to forget it Bedside table  on the kangaroo I said the words Dont forget my fathers watch,35,0.3252
+758,Butch,int. Butch's apartment,day,Holy shit,2,-0.5574
+760,Pedestrian,int. Honda,day,Jesus are you okay,4,0.2263
+762,Gawker #1,int. Honda,day,Hes dead Hes dead,4,-0.8625
+763,Gawker #2,int. Honda,day,If you need a witness in court Ill be glad to help He was a drunken maniac He hit you and crashed into that car,25,-0.0516
+766,Marsellus,int. Honda,day,Well Ill be damned,4,-0.5106
+768,Looky-loo woman,int. Honda,day,Oh my God Ive been shot,6,0.2732
+769,Maynard,int. Mason-Dixie pawnshop,day,Can I help you wit somethin,6,0.4019
+771,Maynard,int. Mason-Dixie pawnshop,day,Now you just wait one goddamn minute ,7,-0.4767
+772,Butch,int. Mason-Dixie pawnshop,day,So you like chasing people huh,6,0.4173
+773,Butch,int. Mason-Dixie pawnshop,day,Well guess what big man you caught me ,8,0.2732
+776,Maynard,int. Mason-Dixie pawnshop,day, Im makin it my business Now toss that gun,9,-0.34
+777,Maynard,int. Mason-Dixie pawnshop,day,Now you on top stand up and come to the counter,11,0.2023
+779,Maynard,int. pawnshop back room,day,Nobody kills anybody in my place of business except me or Zed,12,-0.5423
+784,Maynard,int. pawnshop back room,day,They did that to each other They was fightin when they came in This one was gonna shoot that one,20,-0.34
+785,Zed,int. pawnshop back room,day,You were gonna shoot him,5,-0.34
+786,Zed,int. pawnshop back room,day,Hey is Grace gonna be okay in front of this place,11,0.5719
+787,Maynard,int. pawnshop back room,day,Yeah it aint Tuesday is it,6,0.296
+788,Zed,int. pawnshop back room,day,No its Thursday,3,-0.296
+789,Maynard,int. pawnshop back room,day,Then shell be fine,4,0.2023
+792,Zed,int. pawnshop back room,day,Well I guess youll just wake em up then wont you,11,0.2732
+796,Zed,int. pawnshop back room,day,I aint fer sure yet,5,-0.2411
+798,Maynard,int. pawnshop back room,day,Naw drag big boy to Russells old room,8,-0.2263
+801,Maynard,int. pawnshop back room,day,Whoa this boys got a bit of fight in em,10,-0.3818
+802,Zed,int. pawnshop back room,day,You wanna fight You wanna fight Good I like to fight,11,-0.34
+803,Maynard,int. pawnshop back room,day,Thats it thats it boy youre goin fine Oooooooh just like that thats good Stay still stay still goddamn ya Zed goddammit git over here and hold em,28,0.4767
+806,Butch,int. Russell's old room,day,You want that gun Zed Pick it up,8,-0.2732
+808,Butch,int. Russell's old room,day,You okay,2,0.2263
+809,Marsellus,int. Russell's old room,day,Naw man Im pretty fuckin far from okay,8,0.6249
+811,Marsellus,int. Russell's old room,day,What now Well let me tell you what now Im gonna call a couple pipe hittin niggers wholl go to work on homes here with a pair of pliers and a blow torch Hear me talkin hillbilly boy I aint through with you by a damn sight Im gonna git Medieval on your ass,54,-0.6249
+813,Marsellus,int. Russell's old room,day,Oh that what now Well let me tell ya what now between me an you There is no me an you Not no more,24,-0.3182
+814,Butch,int. Russell's old room,day,So were cool,3,0.3774
+815,Marsellus,int. Russell's old room,day,Yeah man were cool One thing I ask  two things I ask Dont tell nobody about this This shits between me and you and the soontobelivin therestofhisshortasslifein agonizingpain Mr Rapist here It aint nobody elses business Two leave town Tonight Right now And when youre gone stay gone Youve lost your Los Angeles privileges Deal,55,-0.6597
+817,Marsellus,int. Russell's old room,day,Go on now get your ass outta here,8,-0.5423
+819,Fabienne,ext. motel room,day,Butch I was so worried,5,-0.4341
+822,Butch,ext. motel room,day,Fuck the bags Well miss our train if we dont split now,12,-0.4588
+823,Fabienne,ext. motel room,day,Is everything well Are we in danger,7,-0.3182
+824,Butch,ext. motel room,day,Were cool In fact were super cool But we gots to go Ill wait for you outside,17,0.0129
+828,Butch,ext. motel room,day,Sorry baby I crashed the Honda,6,-0.0772
+829,Fabienne,ext. motel room,day,Youre hurt,2,-0.5267
+830,Butch,ext. motel room,day,I mightve broke my nose no biggie Hop on,9,-0.6124
+832,Butch,ext. motel room,day,Im sorry babylove,3,-0.0772
+833,Fabienne,ext. motel room,day,You were gone so long I started to think dreadful thoughts,11,-0.4404
+834,Butch,ext. motel room,day,Im sorry I worried you sweetie Everythings fine Hey how was breakfast,12,0.3612
+835,Fabienne,ext. motel room,day,It was good ,3,0.4404
+837,Fabienne,ext. motel room,day,No they didnt have blueberry pancakes I had to get buttermilk  are you sure youre okay,16,0.25
+838,Butch,ext. motel room,day,Babylove from the moment I left you this has been without a doubt the single weirdest day of my entire life Climb on an Ill tell ya about it,29,-0.3798
+844,Butch,ext. motel room,day,Zeds dead baby Zeds dead,5,-0.8625
+846,Brett,int. bathroom,morning,Yes,1,0.4019
+847,Jules,int. bathroom,morning,Theres a passage I got memorized seems appropriate for this situation Ezekiel  The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men,36,-0.8176
+848,Jules,int. bathroom,morning,blessed is he who in the name of charity and good will shepherded the weak through the valley of darkness And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers And you will know I am the Lord when I lay my vengeance upon you,57,-0.7269
+849,Vincent,int. bathroom,morning,Friend of yours,3,0.4939
+850,Jules,int. bathroom,morning,Yeah MarvinVincentVincentMarvin,2,0.296
+851,Fourth man,int. bathroom,morning,Die die die die,4,-0.9485
+853,Vincent,int. bathroom,morning,Why the fuck didnt you tell us about that guy in the bathroom Slip your mind Forget he was in there with a goddamn hand cannon,26,-0.6486
+854,Jules,int. bathroom,morning,We should be fuckin dead right now Did you see that gun he fired at us It was bigger than him,21,-0.8834
+856,Jules,int. bathroom,morning,We should be fuckin dead,5,-0.6486
+857,Vincent,int. bathroom,morning,Yeah we were lucky,4,0.6124
+858,Jules,int. bathroom,morning,That shit wasnt luck That shit was somethin else,9,-0.8651
+859,Vincent,int. bathroom,morning,Yeah maybe,2,0.296
+860,Jules,int. bathroom,morning,That was divine intervention You know what divine intervention is,10,0.802
+861,Vincent,int. bathroom,morning,Yeah I think so That means God came down from Heaven and stopped the bullets,15,0.7152
+862,Jules,int. bathroom,morning,Yeah man thats what is means Thats exactly what it means God came down from Heaven and stopped the bullets,20,0.6908
+864,Jules,int. bathroom,morning,Dont do that Dont you fuckin do that Dont blow this shit off What just happened was a fuckin miracle,20,-0.1154
+865,Vincent,int. bathroom,morning,Chill the fuck out Jules this shit happens,8,-0.8294
+866,Jules,int. bathroom,morning,Wrong wrong this shit doesnt just happen,7,-0.8689
+868,Jules,int. bathroom,morning,We should be fuckin dead now my friend We just witnessed a miracle and I want you to fuckin acknowledge it,21,0.4588
+869,Vincent,int. bathroom,morning,Okay man it was a miracle can we leave now,10,0.6705
+870,Vincent,int. Nova (moving),morning,Ever seen that show COPS I was watchin it once and this cop was on it who was talkin about this time he got into this gun fight with a guy in a hallway He unloads on this guy and he doesnt hit anything And these guys were in a hallway Its a freak but it happens,57,-0.561
+871,Jules,int. Nova (moving),morning,If you wanna play blind man then go walk with a Shepherd But me my eyes are wide fuckin open,20,-0.0387
+872,Vincent,int. Nova (moving),morning,What the fuck does that mean,6,-0.5423
+873,Jules,int. Nova (moving),morning,Thats it for me For here on in you can consider my ass retired,14,-0.5423
+880,Vincent,int. Nova (moving),morning,While youre at it be sure to tell im why,10,0.3182
+881,Jules,int. Nova (moving),morning,Dont worry I will,4,0.3412
+882,Vincent,int. Nova (moving),morning,Ill bet ya ten thousand dollars he laughs his ass off,11,-0.4767
+883,Jules,int. Nova (moving),morning,I dont give a damn if he does,8,0.3089
+886,Vincent,int. Nova (moving),morning,Cmon Marvin Do you think God came down from Heaven and stopped the bullets,14,0.5423
+887,Jules,int. Nova (moving),morning,What the fucks happening,4,-0.4767
+888,Vincent,int. Nova (moving),morning,I just accidentally shot Marvin in the throat,8,-0.34
+889,Jules,int. Nova (moving),morning,Why the fuck did you do that,7,-0.5423
+890,Vincent,int. Nova (moving),morning,I didnt mean to do it I said it was an accident,12,-0.4767
+891,Jules,int. Nova (moving),morning,Ive seen a lot of crazyass shit in my time ,10,-0.5574
+892,Vincent,int. Nova (moving),morning, chill out man it was an accident okay You hit a bump or somethin and the gun went off,19,-0.5574
+893,Jules,int. Nova (moving),morning,The car didnt hit no motherfuckin bump,7,0.2235
+894,Vincent,int. Nova (moving),morning,Look I didnt mean to shoot this sonofabitch the gun just went off dont ask me how,17,-0.0936
+895,Jules,int. Nova (moving),morning,Look at this mess Were drivin around on a city street in broad daylight ,14,-0.4357
+897,Jules,int. Nova (moving),morning,Well you better be thinkin about it now motherfucker We gotta get this car off the road Cops tend to notice shit like youre driving a car drenched in fuckin blood,31,-0.4019
+898,Vincent,int. Nova (moving),morning,Cant we just take it to a friendly place,9,0.4939
+899,Jules,int. Nova (moving),morning,This is the Valley Vincent Marsellus dont got no friendly places in the Valley,14,-0.1877
+900,Vincent,int. Nova (moving),morning,Well dont look at me this is your town Jules,10,0.2732
+904,Jules,int. Nova (moving),morning,On the other side of the hill by Burbank Studios If Jimmies ass aint home I dont know what the fuck were gonna go I aint got any other partners in  Jimmie How you doin man its Jules Listen up man me an my homeboy are in some serious shit Were in a car we gotta get off the road pronto I need to use your garage for a couple hours,72,-0.8979
+905,Jules,int. Nova (moving),morning,We gotta be real fuckin delicate with this Jimmies situation Hes one remark away from kickin our asses out the door,21,0.0516
+907,Jules,int. Nova (moving),morning,Well we aint leavin til we made a couple phone calls But I never want it to reach that pitch Jimmies my friend and you dont bust in your friends house and start tellin im whats what,37,0.8695
+908,Vincent,int. Nova (moving),morning,Just tell im not to be abusive He kinda freaked out back there when he saw Marvin,17,0.353
+909,Jules,int. Nova (moving),morning,Put yourself in his position Its eight oclock in the morning He just woke up he wasnt prepared for this shit Dont forget whos doin who a favor,28,-0.2263
+910,Vincent,int. Nova (moving),morning,If the price of that favor is I gotta take shit he can stick his favor straight up his ass,20,-0.2023
+911,Jules,int. Nova (moving),morning,What the fuck did you just do to his towel,10,-0.5423
+916,Vincent,int. Nova (moving),morning,I washed em Bloods real hard to get off Maybe if he had some Lava I coulda done a better job,21,0.3612
+917,Jules,int. Nova (moving),morning,I used the same soap you did and when I dried my hands the towel didnt look like a fuckin Maxie pad Look fuck it alright Who cares But its shit like this thats gonna bring this situation to a boil If he were to come in here and see that towel like that Im tellin you Vincent you best be cool Cause if I gotta get in to it with Jimmie on account of you Look I aint threatenin you I respect you an all just dont put me in that position,93,-0.6269
+918,Jules,int. Nova (moving),morning,Jules you ask me nice like that no problem Hes your friend you handle him,15,0.5574
+919,Jules,int. Jimmie's kitchen,morning,Goddamn Jimmie this is some serious gourmet shit Me an Vincent woulda been satisfied with freezedried Tasters Choice You spring this gourmet fuckin shit on us What flavor is this,30,-0.8316
+922,Jimmie,int. Jimmie's kitchen,morning,Im not a cobb or corn so you can stop butterin me up I dont need you to tell me how good my coffee is Im the one who buys it I know how fuckin good it is When Bonnie goes shoppin she buys shit I buy the gourmet expensive stuff cause when I drink it I wanna taste it But whats on my mind at this moment isnt the coffee in my kitchen its the dead nigger in my garage,81,-0.9329
+924,Jimmie,int. Jimmie's kitchen,morning, Im talkin Now let me ask you a question Jules When you drove in here did you notice a sign out front that said Dead nigger storage,27,-0.8625
+925,Jimmie,int. Jimmie's kitchen,morning, answer to question Did you see a sign out in front of my house that said Dead nigger storage,19,-0.8625
+929,Jimmie,int. Jimmie's kitchen,morning,Cause storin dead niggers aint my fuckin business,8,-0.6486
+930,Jimmie,int. Jimmie's kitchen,morning, I aint through Now dont you understand that if Bonnie comes home and finds a dead body in her house Im gonna get divorced No marriage counselor no trial separation  fuckin divorced And I dont wanna get fuckin divorced The last time me an Bonnie talked about this shit was gonna be the last time me an Bonnie talked about this shit Now I wanna help ya out Julie I really do But I aint gonna lose my wife doin it,81,-0.6556
+932,Jimmie,int. Jimmie's kitchen,morning, dont fuckin Jimmie me man I cant be Jimmied Theres nothin you can say thats gonna make me forget I love my wife Now shes workin the graveyard shift at the hospital Shell be comin home in less than an hour and a half Make your phone calls talk to your people than get the fuck out of my house,60,-0.34
+933,Jules,int. Jimmie's kitchen,morning,Thats all we want We dont wanna fuck up your shit We just need to call our people to bring us in,22,-0.1154
+935,Marsellus,int. Marsellus Wallace's dining room,morning,well say she comes home Whaddya think shell do No fuckin shit shell freak That aint no kinda answer You know er I dont How bad a lot or a little,31,-0.4333
+936,Jules,int. Jimmie's bedroom,morning,You got to appreciate what an explosive element this Bonnie situation is If she comes home from a hard days work and finds a bunch of gangsters doin a bunch of gangsta shit in her kitchen aint no tellin what shes apt to do,44,-0.1058
+938,Jules,int. Jimmie's bedroom,morning,I dont wanna hear about no motherfuckin ifsWhat I wanna hear from your ass is you aint got no problems Jules Im on the motherfucker Go back in there chill them niggers out and wait for the cavalry which should be comin directly,43,-0.8818
+939,Marsellus,int. Jimmie's bedroom,morning,You aint got no problems Jules Im on the motherfucker Go back in there chill them niggers out and wait for The Wolf who should be comin directly,28,-0.3515
+941,Marsellus,int. Jimmie's bedroom,morning,Feel better,2,0.4404
+942,Jules,int. Jimmie's bedroom,morning,Shit Negro thats all you had to say,8,-0.5574
+943,The Wolf,int. hotel suite,morning,Is she the hysterical type When she due Give me the principals names again Jules,15,-0.0258
+945,The Wolf,int. hotel suite,morning,Expect a call around  Its about thirty minutes away Ill be there in ten,15,-0.4215
+947,Jimmie,int. Jimmie's house,morning,Yeah,1,0.296
+948,The Wolf,int. Jimmie's house,morning,Im Winston Wolf I solve problems,6,-0.2263
+949,Jimmie,int. Jimmie's house,morning,Good cause we got one,5,0.4404
+951,Jimmie,int. Jimmie's house,morning,Please do,2,0.3182
+956,The Wolf,int. Jimmie's house,morning,I was led to believe if she comes home and finds us here she wouldnt appreciate it none too much,20,-0.3089
+958,The Wolf,int. Jimmie's house,morning,That gives us forty minutes to get the fuck outta Dodge which if you do what I say when I say it should by plenty Now you got a corpse in a car minus a head in a garage Take me to it,43,-0.802
+960,Jimmie,int. Jimmie's garage,morning,Yes,1,0.4019
+961,The Wolf,int. Jimmie's garage,morning,Do me a favor will ya Thought I smelled some coffee in there Would you make me a cup,19,0.4019
+962,Jimmie,int. Jimmie's garage,morning,Sure how do you take it,6,0.3182
+964,The Wolf,int. Jimmie's garage,morning,About the car is there anything I need to know Does it stall does it make a lot of noise does it smoke is there gas in it anything,29,-0.2023
+965,Jules,int. Jimmie's garage,morning,Aside from how it looks the cars cool,8,0.3182
+966,The Wolf,int. Jimmie's garage,morning,Positive Dont get me out on the road and I find out the brake lights dont work,17,0.5574
+968,The Wolf,int. Jimmie's garage,morning,Good enough lets go back to the kitchen,8,0.4404
+969,The Wolf,int. kitchen,morning,Thank you Jimmie,3,0.3612
+970,The Wolf,int. kitchen,morning,Okay first thing you two Take the body stick it in the trunk Now Jimmie this looks to be a pretty domesticated house That would lead me to believe that in the garage or under the sink you got a bunch of cleansers and cleaners and shit like that am I correct,52,0.4588
+971,Jimmie,int. kitchen,morning,Yeah Exactly Under the sink,5,0.296
+972,The Wolf,int. kitchen,morning,Good What I need you two fellas to do is take those cleaning products and clean the inside of the car And Im talkin fast fast fast You need to go in the backseat scoop up all those little pieces of brain and skull Get it out of there Wipe down the upholstery  now when it comes to upholstery it dont need to be spic and span you dont need to eat off it Give it a good once over What you need to take care of are the really messy parts The pools of blood that have collected you gotta soak that shit up But the windows are a different story Them you really clean Get the Windex do a good job Now Jimmie we need to raid your linen closet I need blankets I need comforters I need quilts I need bedspreads The thicker the better the darker the better No whites cant use em We need to camouflage the interior of the car Were gonna line the front seat and the backseat and the floor boards with quilts and blankets If a cop stops us and starts stickin his big snout in the car the subterfuge wont last But at a glance the car will appear to be normal Jimmie  lead the way boys  get to work,220,0.9528
+973,Vincent,int. kitchen,morning,A please would be nice,5,0.6249
+975,Vincent,int. kitchen,morning,I said a please would be nice,7,0.6249
+976,The Wolf,int. kitchen,morning,Set is straight Buster Im not here to say pleaseIm here to tell you want to do And if self preservation is an instinct you possess you better fuckin do it and do it quick Im here to help If my helps not appreciated lotsa luck gentlemen,47,0.6391
+977,Jules,int. kitchen,morning,It aint that way Mr Wolf Your help is definitely appreciated,11,0.8271
+978,Vincent,int. kitchen,morning,I dont mean any disrespect I just dont like people barkin orders at me,14,0.0572
+979,The Wolf,int. kitchen,morning,If Im curt with you its because time is a factor I think fast I talk fast and I need you guys to act fast if you want to get out of this So pretty please with sugar on top clean the fuckin car,44,0.8712
+980,The Wolf,int. Jimmie's bedroom,morning,Its a  Chevy Nova White Nothin except for the mess inside About twenty minutes Nobody wholl be missed Youre a good man Joe See ya soon How we comin Jimmie,31,-0.2023
+982,The Wolf,int. Jimmie's bedroom,morning, Winston Jimmie  please Winston,4,0.3182
+983,Jimmie,int. Jimmie's bedroom,morning,You gotta understand something Winston I want to help you guys out and all but thats my best linen It was a wedding present from my Uncle Conrad and Aunt Ginny and they aint with us anymore ,37,0.8316
+985,Jimmie,int. Jimmie's bedroom,morning,Sure,1,0.3182
+987,Jimmie,int. Jimmie's bedroom,morning,No,1,-0.296
+988,The Wolf,int. Jimmie's bedroom,morning,Well your Uncle Marsellus is And Im positive if Uncle Conrad and Aunt Ginny were millionaires they wouldve furnished you with a whole bedroom set which your Uncle Marsellus is more than happy to do I like oak myself thats whats in my bedroom How bout you Jimmie you an oak man,52,0.9038
+989,Jimmie,int. Jimmie's bedroom,morning,Oaks nice,2,0.4215
+990,Jules,int. garage,morning,I will never forgive your ass for this shit This is some fuckedup repugnant shit,15,-0.7322
+991,Vincent,int. garage,morning,Did you ever hear the philosophy that once a man admits hes wrong hes immediately forgiven for all wrongdoings,19,0.1779
+992,Jules,int. garage,morning,Man get outta my face with that shit The motherfucker who said that never had to pick up ittybitty pieces of skull with his fingers on account of your dumb ass,31,-0.9432
+993,Vincent,int. garage,morning,I got a threshold Jules I got a threshold for the abuse Ill take And youre crossin it Im a race car and you got me in the red Redline  thats where you are Just know its fuckin dangerous to be drivin a race car when its in the red It could blow,54,-0.8779
+994,Jules,int. garage,morning,Youre gettin ready to blow Im a mushroomcloudlayin motherfucker Every time my fingers touch brain Im SUPERFLY TNT Im the GUNS OF NAVARONE Im what Jimmie Walker usta talk about In fact what the fuck am I doin in the back Youre the motherfucker should be on brain detail Were tradin Im washin windows and youre pickin up this niggers skull,61,-0.9042
+995,The Wolf,int. Chevy Nova,morning,Fine job gentlemen We may get out of this yet,10,0.2023
+997,The Wolf,int. Chevy Nova,morning,Well lets not start suckin each others dicks quite yet Phase one is complete clean the car which moves us right along to phase two clean you two,28,0.7579
+1000,The Wolf,ext. Jimmie's backyard,morning,To your bare ass,4,-0.5423
+1001,The Wolf,ext. Jimmie's backyard,morning,Quickly gentlemen we got about fifteen minutes before Jimmies better half comes pulling into the driveway,16,0.4404
+1002,Jules,ext. Jimmie's backyard,morning,This morning air is some chilly shit,7,-0.5574
+1003,Vincent,ext. Jimmie's backyard,morning,Are you sure this is absolutely necessary,7,0.3182
+1004,The Wolf,ext. Jimmie's backyard,morning,You know what you two look like,7,0.3612
+1006,The Wolf,ext. Jimmie's backyard,morning,Like a couple of guys who just blew off somebodys head Yes strippin off those bloody rags is absolutely necessary Toss the clothes in Jims garbage bag,27,0.3182
+1007,Jules,ext. Jimmie's backyard,morning,Now Jimmie dont do nothin stupid like puttin that out in front of your house for Elmo the garbage man to take away,23,0.6458
+1008,The Wolf,ext. Jimmie's backyard,morning,Dont worry were takin it with us Jim the soap,10,0.3412
+1009,The Wolf,ext. Jimmie's backyard,morning,Okay gentlemen youre both been to County before Im sure Here it comes,13,0.4939
+1010,Jules,ext. Jimmie's backyard,morning,Goddamn that waters fuckin cold,5,-0.4767
+1011,The Wolf,ext. Jimmie's backyard,morning,Better you than me gentlemen,5,0.4404
+1015,The Wolf,ext. Jimmie's backyard,morning,Perfect Perfect We couldntve planned this better You guys look like what do they look like Jimmie,17,0.9411
+1016,Jimmie,ext. Jimmie's backyard,morning,Dorks They look like a couple of dorks,8,0.128
+1017,Jules,ext. Jimmie's backyard,morning,Ha ha ha Theyre your clothes motherfucker,7,0.1531
+1019,Jules,ext. Jimmie's backyard,morning,Yeah well our asses aint the expert on wearin dorky shit that your is,14,-0.34
+1020,The Wolf,ext. Jimmie's backyard,morning,Cmon gentlemen were laughin and jokin our way into prison Dont make me beg,14,-0.5106
+1021,The Wolf,int. Jimmie's garage,morning,Gentlemen lets get our rules of the road straight Were going to a place called Monster Joes Truck and Tow Monster Joe and his daughter Raquel are sympathetic to out dilemma The place is North Hollywood so a few twist and turns aside well be goin up Hollywood Way Now Ill drive the tainted car Jules you ride with me Vincent you follow in my Porsche Now if we cross the path of any John Q Laws nobody does a fuckin thing til I do something What did I say,90,0.4215
+1022,Jules,int. Jimmie's garage,morning,Dont do shit unless ,4,0.4449
+1025,The Wolf,int. Jimmie's garage,morning,Spoken like a true prodigy How bout you Lash Larue Can you keep your spurs from jingling and jangling,19,0.6486
+1026,Vincent,int. Jimmie's garage,morning,Im cool Mr Wolf My gun just went off I dunno how,12,-0.0258
+1027,The Wolf,int. Jimmie's garage,morning,Fair enough I drive real fuckin fast so keep up If I get my car back any different than I gave it Monster Joes gonna be disposing of two bodies,30,0.3182
+1028,Jules,ext. Monster Joe's Truck and Tow,morning,We cool,2,0.3182
+1029,The Wolf,ext. Monster Joe's Truck and Tow,morning,Like it never happened,4,0.3612
+1031,Raquel,ext. Monster Joe's Truck and Tow,morning,Hi You know if they ever do I SPY THE MOTION PICTURE you guys Id be great Whats with the outfits You guys going to a volleyball game,28,0.6249
+1032,The Wolf,ext. Monster Joe's Truck and Tow,morning,Im takin mlady out to breakfast Maybe I can drop you two off Where do you live,17,-0.2732
+1035,The Wolf,ext. Monster Joe's Truck and Tow,morning,Its your future I see a cab ride Sorry guys move out of the sticks Say goodbye Raquel,18,-0.0772
+1037,The Wolf,ext. Monster Joe's Truck and Tow,morning,Ill see you two around and stay outta trouble you crazy kids,12,-0.7845
+1039,Jules,ext. Monster Joe's Truck and Tow,morning,I was a pleasure watchin you work,7,0.5719
+1041,The Wolf,ext. Monster Joe's Truck and Tow,morning,You hear that young lady Respect You could lean a lot from those two fine specimens Respect for ones elders shows character,22,0.7906
+1044,Raquel,ext. Monster Joe's Truck and Tow,morning,Oh youre so funny oh youre so funny,8,0.8168
+1045,Jules,ext. Monster Joe's Truck and Tow,morning,Wanna share a cab,4,0.296
+1046,Vincent,ext. Monster Joe's Truck and Tow,morning,You know I could go for some breakfast Want to have breakfast with me,14,0.0772
+1047,Jules,ext. Monster Joe's Truck and Tow,morning,Sure,1,0.3182
+1048,Vincent,int. coffee shop,morning,Thanks a bunch Want a sausage,6,0.4939
+1054,Vincent,int. coffee shop,morning,Sausages taste good Pork chops taste good,7,0.7003
+1055,Jules,int. coffee shop,morning,A sewer rat may taste like pumpkin pie Ill never know cause even if it did I wouldnt eat the filthy motherfucker Pigs sleep and root in shit Thats a filthy animal I dont wanna eat nothin that aint got enough sense to disregard its own feces,47,-0.891
+1058,Vincent,int. coffee shop,morning,Yes but do you consider a dog to be a filthy animal,12,0.2144
+1059,Jules,int. coffee shop,morning,I wouldnt go so far as to call a dog filthy but theyre definitely dirty But a dogs got personality And personality goes a long way,26,-0.0772
+1060,Vincent,int. coffee shop,morning,So by that rationale if a pig had a better personality hes cease to be a filthy animal,18,0.4404
+1061,Jules,int. coffee shop,morning,Wed have to be talkin bout one motherfuckin charmin pig Itd have to be the Cary Grant of pigs,19,0.3612
+1062,Vincent,int. coffee shop,morning,Good for you Lighten up a little You been sittin there all quiet,13,0.4404
+1065,Jules,int. coffee shop,morning,The miracle we witnessed,4,0.5859
+1066,Vincent,int. coffee shop,morning,The miracle you witnessed I witnessed a freak occurrence,9,0.2263
+1067,Jules,int. coffee shop,morning,Do you know that a miracle is,7,0.5859
+1068,Vincent,int. coffee shop,morning,An act of God,4,0.2732
+1069,Jules,int. coffee shop,morning,Whats an act of God,5,0.2732
+1070,Vincent,int. coffee shop,morning,I guess its when God makes the impossible possible And Im sorry Jules but I dont think what happened this morning qualifies,22,0.1027
+1071,Jules,int. coffee shop,morning,Dont you see Vince that shit dont matter Youre judging this thing the wrong way Its not about what It could be God stopped the bullets he changed Coke into Pepsi he found my fuckin car keys You dont judge shit like this based on merit Whether or not what we experienced was an accordingtoHoyle miracle is insignificant What is significant is I felt Gods touch God got involved,69,-0.6351
+1074,Vincent,int. coffee shop,morning,So youre serious youre really gonna quit,7,-0.1477
+1075,Jules,int. coffee shop,morning,The life most definitely,4,0.4576
+1080,Jules,int. coffee shop,morning,You know like Caine in KUNG FU Just walk from town to town meet people get in adventures,18,-0.368
+1082,Jules,int. coffee shop,morning,Until God puts me where he want me to be,10,0.34
+1084,Jules,int. coffee shop,morning,If it takes forever Ill wait forever,7,-0.4215
+1086,Jules,int. coffee shop,morning,Ill just be Jules Vincent  no more no less,9,-0.7351
+1087,Vincent,int. coffee shop,morning,No Jules youre gonna be like those pieces of shit out there who beg for change They walk around like a bunch of fuckin zombies they sleep in garbage bins they eat what I throw away and dogs piss on em They got a word for em theyre called bums And without a job residence or legal tender thats what youre gonna be  a fuckin bum,66,-0.4588
+1088,Jules,int. coffee shop,morning,Look my friend this is just where me and you differ ,11,0.4939
+1089,Vincent,int. coffee shop,morning, what happened was peculiar  no doubt about it  but it wasnt water into wine,14,-0.2617
+1091,Vincent,int. coffee shop,morning,Stop fuckin talkin like that,5,0.0772
+1092,Jules,int. coffee shop,morning,If you find my answers frightening Vincent you should cease askin scary questions,13,-0.7506
+1093,Vincent,int. coffee shop,morning,I gotta take a shit To be continued,8,-0.5574
+1094,Pumpkin,int. coffee shop,morning,Everybody be cool this is a robbery,7,0.3182
+1095,Honey Bunny,int. coffee shop,morning,Any of you fuckin pricks move and Ill execute every one of you motherfuckers Got that,16,-0.5719
+1097,Honey Bunny,int. coffee shop,morning,Now mean fuckin now Do it or die do it or fucking die,13,-0.8316
+1099,Pumpkin,int. coffee shop,morning,On the floor or Ill cook you ass comprende,9,-0.743
+1100,Manager,int. coffee shop,morning,Im the manager here theres no problem no problem at all ,11,-0.8316
+1101,Pumpkin,int. coffee shop,morning,Youre gonna give me a problem,6,-0.4019
+1102,Pumpkin,int. coffee shop,morning,What You said youre gonna give me a problem,9,-0.4019
+1103,Manager,int. coffee shop,morning,No Im not Im not gonna give you any problem,10,-0.5994
+1104,Pumpkin,int. coffee shop,morning,I dont know Honey Bunny He looks like the hero type to me,13,0.7269
+1105,Honey Bunny,int. coffee shop,morning,Dont take any chances Execute him,6,-0.1511
+1106,Manager,int. coffee shop,morning,Please dont Im not a hero Im just a coffee shop manager Take anything you want,16,0.6154
+1108,Manager,int. coffee shop,morning,Everybody just be calm and cooperate with them and this will be all over soon,15,0.3182
+1109,Pumpkin,int. coffee shop,morning,Well done now git your fuckin ass on the ground,10,-0.34
+1110,Pumpkin,int. coffee shop,morning,Okay people Im going to go round and collect your wallets Dont talk just toss em in the bag We clear,21,0.5423
+1113,Jules,int. coffee shop,morning,My boss dirty laundry,4,-0.4404
+1115,Jules,int. coffee shop,morning,When he wants it clean,5,0.4019
+1116,Pumpkin,int. coffee shop,morning,Sounds like a shit job,5,-0.2732
+1117,Jules,int. coffee shop,morning,Funny Ive been thinkin the same thing,7,0.4404
+1121,Jules,int. coffee shop,morning,Yes you did,3,0.4019
+1123,Pumpkin,int. coffee shop,morning,Looks like we got a vigilante in our midst,9,0.3612
+1124,Honey Bunny,int. coffee shop,morning,Shoot em in the face,5,-0.34
+1125,Jules,int. coffee shop,morning,I dont mean to shatter your ego but this aint the first time Ive had gun pointed at me,19,-0.4767
+1127,Manager,int. coffee shop,morning,Quit causing problems youll get us all killed Give em what you got and get em out of here,19,-0.802
+1128,Jules,int. coffee shop,morning,Keep your fuckin mouth closed fat man this aint any of your goddamn business,14,-0.4767
+1129,Pumpkin,int. coffee shop,morning,Im countin to three and if your hand aint off that case Im gonna unload right in your fuckin face Clear One,22,0.7003
+1131,Jules,int. coffee shop,morning,You win,2,0.5859
+1136,Pumpkin,int. coffee shop,morning,Its beautiful,2,0.5994
+1138,Honey Bunny,int. coffee shop,morning,Let him go Let him go Ill blow your fuckin head off Ill kill ya Ill kill ya Youre gonna die youre gonna fuckin die bad,26,-0.9836
+1139,Jules,int. coffee shop,morning,Tell that bitch to be cool Say bitch be cool Say bitch be cool,14,-0.7579
+1142,Jules,int. coffee shop,morning,Tell her its gonna be okay,6,0.2263
+1143,Pumpkin,int. coffee shop,morning,Im gonna be okay,4,0.2263
+1144,Jules,int. coffee shop,morning,Promise her,2,0.3182
+1145,Pumpkin,int. coffee shop,morning,I promise,2,0.3182
+1150,Jules,int. coffee shop,morning,So we cool Yolanda We aint gonna do anything stupid are we,12,-0.2075
+1151,Honey Bunny,int. coffee shop,morning,Dont you hurt him,4,0.4168
+1152,Jules,int. coffee shop,morning,Nobodys gonna hurt anybody Were gonna be like three Fonzies And what Fonzie like,14,0.1531
+1153,Jules,int. coffee shop,morning,Cmon Yolanda whats Fonzie like,5,0.3612
+1154,Honey Bunny,int. coffee shop,morning,Hes cool,2,0.3182
+1155,Jules,int. coffee shop,morning,Correctamundo And thats what were gonna be were gonna be cool Now Ringo Im gonna count to three and I want you to let go your gun and lay your palms flat on the table But when you do it do it cool Ready,44,0.743
+1157,Honey Bunny,int. coffee shop,morning,Okay now let him go,5,0.2263
+1158,Jules,int. coffee shop,morning,Yolanda I thought you were gonna be cool When you yell at me it makes me nervous When I get nervous I get scared And when motherfuckers get scared thats when motherfuckers get accidentally shot,35,-0.8442
+1159,Honey Bunny,int. coffee shop,morning,Just know you hurt him you die,7,-0.8074
+1160,Jules,int. coffee shop,morning,That seems to be the situation Now I dont want that and you dont want that and Ringo here dont want that So lets see what we can do Now this is the situation Normally both of your asses would be dead as fuckin fried chicken But you happened to pull this shit while Im in a transitional period I dont wanna kill ya I want to help ya But Im afraid I cant give you the case It dont belong to me Besides I went through too much shit this morning on account of this case to just hand it over to your ass,105,-0.8342
+1161,Vincent,int. coffee shop,morning,What the fucks goin on here,6,-0.4767
+1162,Jules,int. coffee shop,morning,Its cool Vincent Its cool Dont do a goddamn thing Yolanda its cool baby nothins changed Were still just talkin Tell her were still cool,25,0.8675
+1163,Pumpkin,int. coffee shop,morning,Its cool Honey Bunny were still cool,7,0.5574
+1165,Jules,int. coffee shop,morning,Nothin I cant handle I want you to just hang back and dont do shit unless its absolutely necessary,19,0.4023
+1168,Honey Bunny,int. coffee shop,morning,I gotta go pee I want to go home,9,0.0772
+1169,Jules,int. coffee shop,morning,Just hang in there baby youre doing great Ringos proud of you and so am I Its almost over Now I want you to go in that bag and find my wallet,32,0.804
+1171,Jules,int. coffee shop,morning,Its the one that says Bad Motherfucker on it,9,-0.8442
+1172,Jules,int. coffee shop,morning,Thats my bad motherfucker Now open it up and take out the cash How much is there,17,-0.8442
+1174,Jules,int. coffee shop,morning,Put it in your pocket its yours Now with the rest of them wallets and the register that makes this a pretty successful little score,25,0.8201
+1175,Vincent,int. coffee shop,morning,Jules if you give this nimrod fifteen hundred buck Im gonna shoot em on general principle,16,-0.34
+1176,Jules,int. coffee shop,morning,You aint gonna do a goddamn thing now hang back and shut the fuck up Besides I aint givin it to him Im buyin somethin for my money Wanna know what Im buyin Ringo,34,-0.2373
+1178,Jules,int. coffee shop,morning,Your life Im givin you that money so I dont hafta kill your ass You read the Bible,18,0.1285
+1180,Jules,int. coffee shop,morning,Theres a passage I got memorized Ezekiel  The path of the righteous man is beset on all sides by the inequities of the selfish and the tyranny of evil men Blessed is he who in the name of charity and good will shepherds the weak through the valley of the darkness For he is truly his brothers keeper and the finder of lost children And I will strike down upon thee with great vengeance and furious anger those who attempt to poison and destroy my brothers And you will know I am the Lord when I lay my vengeance upon you I been sayin that shit for years And if you ever heard it it meant your ass I never really questioned what it meant I thought it was just a coldblooded thing to say to a motherfucker fore you popped a cap in his ass But I saw some shit this mornin made me think twice Now Im thinkin it could mean youre the evil man And Im the righteous man And Mr  here hes the shepherd protecting my righteous ass in the valley of darkness Or is could by youre the righteous man and Im the shepherd and its the world thats evil and selfish Id like that But that shit aint the truth The truth is youre the weak And Im the tyranny of evil men But Im tryin Im tryin real hard to be a shepherd,242,-0.9964
+1182,Vincent,int. coffee shop,morning,I think we oughta leave now,6,-0.0516
+1183,Jules,int. coffee shop,morning,Thats probably a good idea,5,0.4404
